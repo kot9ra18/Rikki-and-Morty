@@ -1,0 +1,6 @@
+module Pods_Rikki_and_Morty_6 {
+  umbrella header "Pods-Rikki and Morty 6-umbrella.h"
+
+  export *
+  module * { export * }
+}
